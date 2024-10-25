@@ -1,6 +1,6 @@
 # Spacelift Solutions
 
-Welcome to the Spacelift Solutions organization! This is a collection of repositories that contain solutions to common problems that you might encounter when using Spacelift.
+Welcome to the Spacelift Solutions organization! This is a collection of repositories that contain common solutions to using Spacelift to its fullest extent.
 
 ```hcl
 resource "github_introduction" "spacelift_solutions" {
