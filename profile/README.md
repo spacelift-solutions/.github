@@ -9,7 +9,7 @@ resource "github_introduction" "spacelift_solutions" {
     solutions_engineers = [
       "Aaron Carpenter (aaronkcarpenter)",
       "Joey Stout (apollorion)",
-      "Chris Darmofol (ChrisDarm)",
+      "Chris Darmofal (ChrisDarm)",
       "Emin Alemdar (eminalemdar)",
       "Jake Johnson (jacobjSL)",
       "Jubran Nassar (jubranNassar)",
