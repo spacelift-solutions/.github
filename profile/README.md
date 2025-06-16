@@ -13,7 +13,8 @@ resource "github_introduction" "spacelift_solutions" {
       "Emin Alemdar (eminalemdar)",
       "Jake Johnson (jacobjSL)",
       "Jubran Nassar (jubranNassar)",
-      "Marin Govedarski (MarcusScipio)"
+      "Marin Govedarski (MarcusScipio)",
+      "Kalyan Oduri (kal-spacelift)"
     ]
 
     contact = {
