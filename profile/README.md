@@ -8,13 +8,13 @@ resource "github_introduction" "spacelift_solutions" {
     
     solutions_engineers = [
       "Aaron Carpenter (aaronkcarpenter)",
-      "Joey Stout (apollorion)",
       "Chris Darmofal (ChrisDarm)",
       "Emin Alemdar (eminalemdar)",
       "Jake Johnson (jacobjSL)",
       "Jubran Nassar (jubranNassar)",
+      "Kalyan Oduri (kal-spacelift)",
       "Marin Govedarski (MarcusScipio)",
-      "Kalyan Oduri (kal-spacelift)"
+      "Joey Stout (TheOutdoorProgrammer)"
     ]
 
     contact = {
