@@ -12,8 +12,9 @@ resource "github_introduction" "spacelift_solutions" {
       "Emin Alemdar (eminalemdar)",
       "Jake Johnson (jacobjSL)",
       "Jubran Nassar (jubranNassar)",
+      "Jake Nesler (Jnesspace)",
       "Kalyan Oduri (kal-spacelift)",
-      "Marin Govedarski (MarcusScipio)",
+      "Kira Lempereur (KiraLempereur-Spacelift)",
       "Joey Stout (TheOutdoorProgrammer)"
     ]
 
