@@ -15,7 +15,8 @@ resource "github_introduction" "spacelift_solutions" {
       "Jake Nesler (Jnesspace)",
       "Kalyan Oduri (kal-spacelift)",
       "Kira Lempereur (KiraLempereur-Spacelift)",
-      "Joey Stout (TheOutdoorProgrammer)"
+      "Joey Stout (TheOutdoorProgrammer)",
+      "Jayden Stipek (Clause828)"
     ]
 
     contact = {
