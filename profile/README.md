@@ -2,6 +2,8 @@
 
 Welcome to the Spacelift Solutions organization!
 
+![The Spacelift Solutions team at a hockey rink](team.jpeg)
+
 ```hcl
 resource "github_introduction" "spacelift_solutions" {
     name      = "Spacelift Solutions"
